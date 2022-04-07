@@ -1,0 +1,12 @@
+{
+  "name": "snap",
+  "version": "1.0.0",
+  "main": "snap.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "puppeteer": "^13.5.2",
+    "system": "^2.0.1"
+  }
+}
